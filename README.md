@@ -7,7 +7,8 @@ You can download it by visiting the official Python website below:
 
 https://pypi.python.org/pypi/PyAutoGUI
 
-Also, if you are not familiar with the concepts of the module, please go through the documentation included in the repository.
+Also, if you are not familiar with the concepts of the module, please go through the documentation included in the link below:
+https://pyautogui.readthedocs.io/en/latest/
 
 The .png image files are also included that the program will use for the purpose of loaction and navigation.
 
@@ -19,6 +20,8 @@ The .png image files are also included that the program will use for the purpose
          http://docs.python-guide.org/en/latest/starting/install3/osx/
       
       3. This program contains keyboard shortcuts and other things like my password field, and sleep time that might only be            limited to my device, account and network connection speed respectively. Do make a change in those attributes as per          your requirements.
+      
+      4. Always keep FAILSAFE = True. This is for when the program might go crazy. If you want to terminate the program, just          manually drag your cursor to the top left corner of your screen. That way, the program will raise an exception and            will terminate.
 
 
 
