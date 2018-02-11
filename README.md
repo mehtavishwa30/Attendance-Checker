@@ -13,5 +13,17 @@ https://pyautogui.readthedocs.io/en/latest/
 
 The .png image files are also included that the program will use for the purpose of loaction and navigation.
 
+NOTE:
+
+1. This program was modified to work only on Mac os x. 
+
+2. Also, Mac comes with an inbuilt Python version 2.7. So if you want your module to run on Python 3 and haven't installed it yet, go through the following page for any help regarding Python 3 installation.
+
+http://docs.python-guide.org/en/latest/starting/install3/osx/
+
+3. This program contains keyboard shortcuts and other things like my password field, and sleep time that might only be limited to my device, account and network connection speed respectively. Do make a change in those attributes as per your requirements.
+
+4. Always keep FAILSAFE = True. This is for when the program might go crazy. If you want to terminate the program, just manually drag your cursor to the top left corner of your screen. That way, the program will raise an exception and will terminate.
+
 
 
