@@ -8,6 +8,7 @@ You can download it by visiting the official Python website below:
 https://pypi.python.org/pypi/PyAutoGUI
 
 Also, if you are not familiar with the concepts of the module, please go through the documentation included in the link below:
+
 https://pyautogui.readthedocs.io/en/latest/
 
 The .png image files are also included that the program will use for the purpose of loaction and navigation.
